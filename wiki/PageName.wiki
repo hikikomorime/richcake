@@ -5,119 +5,119 @@
 http://livedemo.exadel.com/richfaces-demo/index.jsp
 
 Ajax Support
-	Action Parameter
-	Ajax Attributes
-	Ajax Form
-	Ajax Listener
-	Ajax Region
-	Ajax Support
-	Command Button
-	Command Link
-	JS Function
-	Poll
-	Push
-	Status
+	* Action Parameter
+	* Ajax Attributes
+	* Ajax Form
+	* Ajax Listener
+	* Ajax Region
+	* Ajax Support
+	* Command Button
+	* Command Link
+	* JS Function
+	* Poll
+	* Push
+	* Status
 
 Resources/Beans Handling
-	Bundle
-	Keep Alive
-	Script
-	Style
+	* Bundle
+	* Keep Alive
+	* Script
+	* Style
 
 Ajax Validators
-	Ajax Validator
-	Bean Validator
-	Graph Validator
+	* Ajax Validator
+	* Bean Validator
+	* Graph Validator
 
 Ajax Output
-	Include
-	Media Output
-	Output Panel
+	* Include
+	* Media Output
+	* Output Panel
 
 Ajax Miscellaneous
-	Ajax Page
-	Ajax Portlet
-	Html Command Link
-	Log
+	* Ajax Page
+	* Ajax Portlet
+	* Html Command Link
+	* Log
 
 Data Iteration
-	Column
-	Column Group
-	Columns
-	Data Definition List
-	Data Filter Slider
-	Data Grid
-	Data List
-	Data Ordered List
-	Data Table
-	Data Table Scroller
-	Extended Data Table
-	Repeat
-	Scrollable Data Table
-	Table Filtering
-	Table Sorting
+	* Column
+	* Column Group
+	* Columns
+	* Data Definition List
+	* Data Filter Slider
+	* Data Grid
+	* Data List
+	* Data Ordered List
+	* Data Table
+	* Data Table Scroller
+	* Extended Data Table
+	* Repeat
+	* Scrollable Data Table
+	* Table Filtering
+	* Table Sorting
 
 Drag-Drop Support
-	Drag Indicator
-	Drag Support
-	Drag-Drop Parameter
-	Drop Support
+	* Drag Indicator
+	* Drag Support
+	* Drag-Drop Parameter
+	* Drop Support
 
 Rich Menu
-	Context Menu
-	Drop Down Menu
-	Menu Group
-	Menu Item
-	Menu Separator
+	* Context Menu
+	* Drop Down Menu
+	* Menu Group
+	* Menu Item
+	* Menu Separator
 
 Rich Trees
-	Recursive Tree Adaptor
-	Tree
-	Tree Adaptor
+	* Recursive Tree Adaptor
+	* Tree
+	* Tree Adaptor
 
 Rich Output
-	Modal Panel
-	Paint2D
-	Panel
-	Panel Bar
-	Panel Menu
-	Progress Bar
-	Separator
-	Simple Toggle Panel
-	Spacer
-	Tab Panel
-	Toggle Panel
-	Tool Bar
-	ToolTip
+	* Modal Panel
+	* Paint2D
+	* Panel
+	* Panel Bar
+	* Panel Menu
+	* Progress Bar
+	* Separator
+	* Simple Toggle Panel
+	* Spacer
+	* Tab Panel
+	* Toggle Panel
+	* Tool Bar
+	* ToolTip
 
 Rich Input
-	Calendar
-	Combo Box
-	File Upload
-	Inplace Input
-	Inplace Select
-	Input Number Slider
-	Input Number Spinner
-	Suggestion Box
+	* Calendar
+	* Combo Box
+	* File Upload
+	* Inplace Input
+	* Inplace Select
+	* Input Number Slider
+	* Input Number Spinner
+	* Suggestion Box
 
 Rich Selects
-	List Shuttle
-	Ordering List
-	Pick List
+	* List Shuttle
+	* Ordering List
+	* Pick List
 
 Rich Miscellaneous
-	Component Control
-	Effect
-	Google Map
-	Hot Key
-	Insert
-	Message
-	Messages
-	Plug'n'Skin
-	Standard Skinning
-	State Manager API
-	Virtual Earth
-	jQuery
+	* Component Control
+	* Effect
+	* Google Map
+	* Hot Key
+	* Insert
+	* Message
+	* Messages
+	* Plug'n'Skin
+	* Standard Skinning
+	* State Manager API
+	* Virtual Earth
+	* jQuery
 
 
 = Details =
