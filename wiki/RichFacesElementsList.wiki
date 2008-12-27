@@ -2,6 +2,8 @@
 
 = Introduction =
 
+The components in bold will be implemented by RickCake.
+
 http://livedemo.exadel.com/richfaces-demo/index.jsp
 
 Ajax Support
@@ -64,19 +66,19 @@ Drag-Drop Support
 	* Drop Support
 
 Rich Menu
-	* Context Menu
-	* Drop Down Menu
-	* Menu Group
-	* Menu Item
-	* Menu Separator
+	* *Context Menu*
+	* *Drop Down Menu*
+	* *Menu Group*
+	* *Menu Item*
+	* *Menu Separator*
 
 Rich Trees
-	* Recursive Tree Adaptor
-	* Tree
-	* Tree Adaptor
+	* *Recursive Tree Adaptor*
+	* *Tree*
+	* *Tree Adaptor*
 
 Rich Output
-	* Modal Panel
+	* *Modal Panel*
 	* Paint2D
 	* Panel
 	* Panel Bar
@@ -91,13 +93,13 @@ Rich Output
 	* ToolTip
 
 Rich Input
-	* Calendar
-	* Combo Box
-	* File Upload
-	* Inplace Input
-	* Inplace Select
-	* Input Number Slider
-	* Input Number Spinner
+	* *Calendar*
+	* *Combo Box*
+	* *File Upload*
+	* *Inplace Input*
+	* *Inplace Select*
+	* *Input Number Slider*
+	* *Input Number Spinner*
 	* Suggestion Box
 
 Rich Selects
