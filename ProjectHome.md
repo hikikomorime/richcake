@@ -1,0 +1,1 @@
+A set of advanced visual components for CakePHP (helper) to improve user interface experience that resembles JBoss RichFaces(tm).
